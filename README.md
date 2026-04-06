@@ -31,16 +31,16 @@ sudo python3 topo.py
 
 ###Normal connectivity
 ## Controller Started:
-![Controller Started](Screenshots/Screenshot_1.jpg)
+![Controller Started](Screenshots/Screenshot_1.jpeg)
 ## Nodes Command:
-![Screenshot2]
+![Nodes Command](Screenshots/Screenshot_2.jpeg)
 ## Net Command:
-![Screenshot7]
+![Net Command](Screenshots/Screenshot_7.jpeg)
 ## pingall Command:
-![Screenshot3]
+![pingall Command](Screenshots/Screenshot_3.jpeg)
 ## link s1 s2 down:
-![Screenshot4]
+![ link s1 s2 down](Screenshots/Screenshot_4.jpeg)
 ## link s1 s2 up:
-![Screenshot5]
+![link s1 s2 up](Screenshots/Screenshot_5.jpeg)
 ## Final pingall:
-![Screenshot6]
+![Final pingall](Screenshots/Screenshot_6.jpeg)

@@ -29,7 +29,7 @@ ryu-manager port_monitor.py
 sudo python3 topo.py
 ```
 
-###Normal connectivity
+##Normal connectivity
 ## Controller Started:
 ![Controller Started](Screenshots/Screenshot_1.jpeg)
 ## Nodes Command:

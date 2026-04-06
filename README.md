@@ -29,11 +29,9 @@ ryu-manager port_monitor.py
 sudo python3 topo.py
 ```
 
-## Test Scenarios
-
-### Scenario 1: Normal connectivity
+###Normal connectivity
 ## Controller Started:
-![Screenshot1]
+![Controller Started](Screenshots/Screenshot_1.jpg)
 ## Nodes Command:
 ![Screenshot2]
 ## Net Command:

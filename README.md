@@ -64,8 +64,8 @@ Expected Output: 0% packet loss, all ports show UP
 ![Final pingall](Screenshots/Screenshot_6.jpeg)
 
 ## Log Documents:
-'''
+```
 [2026-04-06 06:46:58] ✅  INFO | Switch 2 | Port 2 (s2-eth2) | Reason: MODIFIED | State: UP
 [2026-04-06 06:46:58] ✅  INFO | Switch 2 | Port 2 (s2-eth2) | Reason: DELETED | State: UP
 [2026-04-06 06:46:58] ⚠️  ALERT | Switch 1 | Port 2 (s1-eth2) | Reason: DELETED | State: DOWN
-'''
+```

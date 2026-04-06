@@ -32,3 +32,17 @@ sudo python3 topo.py
 ## Test Scenarios
 
 ### Scenario 1: Normal connectivity
+## Controller Started:
+![Screenshot1]
+## Nodes Command:
+![Screenshot2]
+## Net Command:
+![Screenshot7]
+## pingall Command:
+![Screenshot3]
+## link s1 s2 down:
+![Screenshot4]
+## link s1 s2 up:
+![Screenshot5]
+## Final pingall:
+![Screenshot6]
